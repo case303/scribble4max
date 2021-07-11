@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   mode: 'production',
   entry: {
-    riff: './src/riff.js',
+    riff: './src/newriff.js',
     chords: './src/chords.js',
     templateAPIpass: './src/templateAPIpass.js'
   },
